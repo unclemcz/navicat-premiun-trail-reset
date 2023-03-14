@@ -1,5 +1,5 @@
 # navicat-premiun-trail-reset
-A script to reset the trail of navicat-premiun.
+A script to reset the free trail of navicat-premiun.
 
 ### Operating environment
 OS: Ubuntu 22.04.2 LTS x86_64.  [ubuntu](https://ubuntu.com/desktop)
