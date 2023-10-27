@@ -17,6 +17,7 @@ function install_if_missing {
 # make sure we have installed the following packages
 echo "checking packages to run this bash......"
 install_if_missing dconf-editor
+install_if_missing dconf-cli
 install_if_missing touch
 
 # let's gogogo
