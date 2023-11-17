@@ -17,3 +17,11 @@ Download navicat-premiun-trail-reset.sh and put it into the same folder of navic
 ```
 bash navicat-premiun-trail-reset.sh
 ```
+Please ignore the test folder.
+
+### About old version
+when  a major update is made，the previous version will be renamed as old_version_v...,like:
+```
+old_version_v0.01.sh
+```
+
