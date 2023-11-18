@@ -31,7 +31,6 @@ case $DISTRO in
     ubuntu)
       echo install_if_missing Debian dependent packages
       install_if_missing dconf-editor
-      install_if_missing touch
     ;;
     *)
     echo Unrecognised distro $DISTRO,exit
@@ -44,6 +43,6 @@ esac
 echo "start..."
 rm -rf ~/.config/navicat/Premium/preferences.json*
 dconf reset -f /com/premiumsoft/
-touch -m navicat*.AppImage
+touch -cm navicat*.AppImage
 echo "Done!"
 
