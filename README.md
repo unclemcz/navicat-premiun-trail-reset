@@ -1,10 +1,11 @@
 # navicat-premiun-trail-reset
-A script to reset the free trail of navicat-premiun.
+First of all,DBeaver Community is a bright choice,  but if you're used to using navicat,maybe you can try this,it's a  script to reset the free trail of navicat-premiun.
+Still,i suggest you buy a license of navicat,it's awesome.
 
 ### Operating environment
 OS: 
 
-Ubuntu 22.04.2 LTS x86_64.  [ubuntu](https://ubuntu.com/desktop)
+Ubuntu 22.04.3 LTS x86_64.  [ubuntu](https://ubuntu.com/desktop)
 
 UnionTech OS Desktop 20 Home x86_64.[uos](https://home.uniontech.com/)
 
