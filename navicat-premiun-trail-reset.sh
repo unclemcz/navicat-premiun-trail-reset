@@ -1,5 +1,5 @@
 #!/bin/bash
-# version:0.02
+# version:0.0.3
 
 function is_installed {
     dpkg -s $1 >/dev/null 2>&1
@@ -28,7 +28,7 @@ case $DISTRO in
       install_if_missing dconf-editor
       install_if_missing dconf-cli
     ;;
-    ubuntu)
+    debian|ubuntu)
       echo install_if_missing Debian dependent packages
       install_if_missing dconf-editor
     ;;
